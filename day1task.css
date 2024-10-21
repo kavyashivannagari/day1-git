@@ -1,0 +1,16 @@
+h2{
+    background-color: aqua;
+    color: black;
+    text-align: center;
+}
+div{
+    background-color: antiquewhite;
+    color: black;
+    text-align: center;
+    font-style: italic;
+}
+pre{
+    background-color: aquamarine;
+    color: black;
+    font-family: monospace;
+}
